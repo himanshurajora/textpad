@@ -4,7 +4,9 @@
 
 How to Use -
 1. Install the package in you project <br>
-``` npm i textpad --save```
+``` 
+npm i vtextpad --save
+```
 2. Check our documentation <br>
 <a href="https://himanshurajora.github.io/vtextpad">Click Here</a> For Documentation
 
