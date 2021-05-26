@@ -10,9 +10,9 @@
  * The given text's length should not be more than 1
  * @example 
  * - code 
- * const textpad = require("textpad")
+ * const vtextpad = require("vtextpad")
  * const input = 12
- * const ouput = textpad.leftpad(12, 3, '0')
+ * const ouput = vtextpad.leftpad(12, 3, '0')
  * console.log(output)
  * 
  * *****
@@ -44,9 +44,9 @@ function leftpad(input, length = 3, text = '0') {
  * The given text's length should not be more than 1
  * @example 
  * - code 
- * const textpad = require("textpad")
+ * const vtextpad = require("vtextpad")
  * const input = 12
- * const ouput = textpad.rightpad(12, 3, '0')
+ * const ouput = vtextpad.rightpad(12, 3, '0')
  * console.log(output)
  * 
  * *****
