@@ -1,4 +1,4 @@
-## textpad
+## vtextpad
 ### A Javascript Library for text padding
 ### - By Himanshu Jangid
 
