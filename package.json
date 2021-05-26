@@ -1,0 +1,47 @@
+{
+  "name": "vtextpad",
+  "version": "0.0.1",
+  "description": "text padding library for padding text either in left or right of the given input, and padding text selection is possible",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshurajora/textpad.git"
+  },
+  "keywords": [
+    "textpad",
+    "vcf",
+    "himanshurajora",
+    "himanshu",
+    "himanshujangid",
+    "text",
+    "padding",
+    "paading",
+    "text",
+    "paddingtext",
+    "text.pad",
+    "text-pad",
+    "pad-itontext",
+    "inserttext",
+    "inset-zero",
+    "zero",
+    "pad",
+    "zeropad",
+    "leftpad",
+    "pad",
+    "padding"
+  ],
+  "author": "Himanshu JangId",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himanshurajora/textpad/issues"
+  },
+  "homepage": "https://github.com/himanshurajora/textpad#readme"
+}
