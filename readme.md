@@ -6,7 +6,7 @@ How to Use -
 1. Install the package in you project <br>
 ``` npm i textpad --save```
 2. Check our documentation <br>
-<a href="https://himanshurajora.github.io/textpad">Click Here</a> For Documentation
+<a href="https://himanshurajora.github.io/vtextpad">Click Here</a> For Documentation
 
 * Example 1 - 
 ``` const textpad = require("textpad")
