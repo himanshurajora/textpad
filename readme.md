@@ -9,18 +9,19 @@ How to Use -
 <a href="https://himanshurajora.github.io/vtextpad">Click Here</a> For Documentation
 
 * Example 1 - 
-``` const textpad = require("textpad")
+``` 
+const vtextpad = require("vtextpad")
 const input = 12
-const ouput = textpad.leftpad(12, 3, '0')
+const ouput = vtextpad.leftpad(12, 3, '0')
 console.log(output)
 ```
 ``` 
 // output - 012 
 ```
 * Example 2 - 
-``` const textpad = require("textpad")
+``` const vtextpad = require("vtextpad")
 const input = 12
-const ouput = textpad.rightpad(12, 3, 'A')
+const ouput = vtextpad.rightpad(12, 3, 'A')
 console.log(output)
 ```
 ``` 
